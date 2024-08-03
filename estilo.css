@@ -152,10 +152,11 @@ footer{
         text-align: left;
     }
 
+    img{
+        width: 300px;
+    }
     
-    a{
-        img{
+    a > img{
         width: 80px;
         }
-    }
 }
