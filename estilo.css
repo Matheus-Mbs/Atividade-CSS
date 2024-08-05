@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&display=swap');
+
 .box-div{
     box-shadow: 2px 2px 30px;
     box-shadow: -2px -2px 30px;
@@ -133,7 +137,7 @@ footer{
 .intro-sobre{
     text-align: center;
     padding-top: 50px;
-    margin-top: 300px;
+    margin-top: 200px;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 50px;
@@ -159,4 +163,32 @@ footer{
     a > img{
         width: 80px;
         }
+}
+.profile{
+    border-radius: 200px;
+    border: solid black 2px;
+}
+
+h1{
+    font-family: "Quicksand";
+}
+
+p{
+    font-family: "Nunito";
+}
+
+ul{
+    font-family: "Nunito";
+}
+
+h2{
+    font-family: "Quicksand";
+}
+
+footer{
+    font-family: "Quicksand";
+}
+
+.footer-sobre{
+    bottom: 0;
 }
