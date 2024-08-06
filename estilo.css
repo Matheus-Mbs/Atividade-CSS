@@ -192,3 +192,11 @@ footer{
 .footer-sobre{
     bottom: 0;
 }
+
+.img-jogos{
+    width: 50%;
+    height: auto;
+    max-width: 700px;
+    border-radius: 20px;
+    border: solid white 3px;
+}
