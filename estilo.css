@@ -110,11 +110,10 @@ div{
 
 footer{
     background: rgb(56,74,97);
-    position: fixed;
+    position: absolute;
     width: 100%;
     color: white;
     left: 0;
-    bottom: 0;
     z-index: 999;
     padding: 30px;
     border-top: solid black 4px;
